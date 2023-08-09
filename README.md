@@ -1,6 +1,6 @@
 # LinearRegression
 ## Problem Statement
-A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short-term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain itself in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
@@ -32,7 +32,7 @@ explaining the demand for shared bikes are the ‘year 2019’, ‘temperature�
     - temperature: outside temperature impacts significantly the number of bikes rented
     - humidity has a negative correlation with the number of bikes rented.
     - windspeed has a negative correlation with the number of bikes rented.
-    - seasons(spring and winter) Here spring has a negative correlation with the number of bikes rented having value (-0.63) and winter has a correlation of value (0.082).
+    - seasons(spring and winter) Here spring has a negative correlation with the number of bikes rented having a value (-0.63) and winter has a correlation of value (0.082).
     - weather situation (light rain/snow and misty-cloudy) has a negative correlation with the number of bikes rented.
     - months (November, December, and January) have a negative correlation with the number of bikes rented, but July has a positive correlation with the rented bikes
     - weekday(Monday) shows a negative correlation with the number of bikes rented.
@@ -46,4 +46,6 @@ explaining the demand for shared bikes are the ‘year 2019’, ‘temperature�
 - seaborn - version 0.11.1
 - statsmodels - version 0.12.2
 - scikit-learn - version 0.24.1
-- 
+
+## Contact
+Created by [@RezonChakraborty] - feel free to contact me!
